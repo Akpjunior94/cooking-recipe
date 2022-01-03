@@ -1,0 +1,9 @@
+.search {
+  max-width: 1200px;
+  margin: 40px auto;
+}
+
+/* dark mode */
+.search.dark, .search.dark h2 {
+  color: #fff;
+}

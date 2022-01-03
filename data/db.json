@@ -1,0 +1,108 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Veggie Stew",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "200g Tofu",
+        "300ml Veg stock"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Veggie Pizza",
+      "ingredients": [
+        "1 Base",
+        "Tomata pasata",
+        "1 Green pepper",
+        "100g Mushrooms"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Greek Salad",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "4",
+      "title": "Nigeria Salad",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "title": "veg",
+      "method": "sefrthtuuyy",
+      "ingredients": [
+        "amala",
+        "ewedu"
+      ],
+      "cookingTime": "20 minutes",
+      "id": "IuinDVo"
+    },
+    {
+      "title": "Fried Rice",
+      "method": "add rice stir for sometimes and add water. leave to boil for 20min ",
+      "ingredients": [
+        "rice",
+        "cowpea"
+      ],
+      "cookingTime": "30 minutes",
+      "id": "3PoUppY"
+    },
+    {
+      "title": "Edikiakong",
+      "method": "boil you meat add 2ml cup of water add assorted and seasoning add redoil leave to cook until water drys off and only the redoil is visible, add waterleaf...",
+      "ingredients": [
+        "Ugu",
+        "waterleaf",
+        "kpomo",
+        "goat meat",
+        "pepper"
+      ],
+      "cookingTime": "30 minutes",
+      "id": "hFUlIoS"
+    },
+    {
+      "title": "Afang Soup",
+      "method": "jsfknvkvkvllvrkvr kr kr kr kr kr ",
+      "ingredients": [
+        "Afang leaf",
+        "assorted"
+      ],
+      "cookingTime": "24 minutes",
+      "id": "4lsp24L"
+    },
+    {
+      "title": "Custard Drink",
+      "method": "Boil your water for 10mins, mix the custard in a plate add your sugar and milk...",
+      "ingredients": [
+        "custard",
+        "milk",
+        "sugar"
+      ],
+      "cookingTime": "10 minutes",
+      "id": "2Zk7gGS"
+    }
+  ]
+}
